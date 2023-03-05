@@ -15,6 +15,7 @@ body{
     min-height: 100vh;
     background-color: var(--bg-color);
     color: var(--text-color);
+    padding-bottom: 50px;
 }
 
 header{
@@ -127,7 +128,13 @@ header{
 
 /*Footer*/
 footer {
-    background-image: url("thyFooter.png ");
+    background-image: url("img/thyFooter.png ");
     background-size: cover;
     background-position: center;
-  }
+    padding-top: 100px;
+    margin-top: 200px;
+}
+.text{
+    text-decoration: none;
+    color: #fff;
+}
