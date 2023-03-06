@@ -1,20 +1,28 @@
-.title{
+.header{
   text-align: center;
   padding-top: 180px;
-
+  padding-bottom: 50px;
 }
-.content {
+
+.title{
+  padding: 60px;
+  padding-left: 85px;
+}
+
+.blogtxt {
   text-align: justify;
   justify-content: center;
   align-items: center;
   width: 100%; 
-  padding: 80px;
+  padding: 85px;
+  padding-top: 5px;
 }
-.content img{
+.blogpic img{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  margin-bottom: 100px;
+  margin-bottom: 5px;
+  padding-top: 0 50px;
 }
 header {
   height: 100px;
