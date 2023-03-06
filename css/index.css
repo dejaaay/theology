@@ -1,0 +1,19 @@
+.hero {
+height: 800px;
+width: 1650px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: 100px;
+margin-top: 150px;
+}
+header {
+    height: 100px;
+  }
+.card-group {
+    display: block;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: 100px;
+margin-top: 150px;
+}
