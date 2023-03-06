@@ -1,0 +1,15 @@
+.content {
+  text-align: justify;
+  justify-content: center;
+  align-items: center;
+  width: 100%; 
+  padding: 50px;
+}
+  
+.content img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 180px;
+  margin-bottom: 100px;
+}
