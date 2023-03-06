@@ -27,3 +27,70 @@
 header {
   height: 100px;
 }
+
+/*Blogs2*/
+.container {
+  display: flex;
+}
+.image {
+  flex: 1;
+}
+.text {
+  flex: 2;
+}
+.image img {
+  width: 100%;
+  height: auto;
+}
+.text h2 {
+  font-size: 24px;
+  color: #333;
+}
+.text p {
+  font-size: 16px;
+  color: #666;
+}
+
+.content{
+  text-align: justify;
+  justify-content: center;
+  align-items: center;
+  width: 100%; 
+  padding: 70px;
+  padding-top: 5px;
+}
+
+.happygirl{
+  padding-top: 1px;
+}
+
+.church {
+  padding-top: 70px;
+  position: relative;
+ left:750px;
+}
+
+.friends {
+  padding-top:90px;
+
+}
+
+.justice {
+  padding-top:90px;
+  position: relative;
+ left:750px;
+}
+
+.stewardship {
+  padding-top:90px;
+
+}
+
+.conclusion{
+  text-align: justify;
+  justify-content: center;
+  align-items: center;
+  width: 100%; 
+  padding: 70px;
+  padding-top: 90px;
+}
