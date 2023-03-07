@@ -1,0 +1,14 @@
+html
+
+<div class="className">
+      <img src="img/1.png" alt="Picture Name" width="250" height="250">
+</div>
+
+
+css
+
+.className{
+	position: absolute;
+	left: px;
+	top: px;
+}
